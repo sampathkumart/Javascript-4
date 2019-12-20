@@ -2,5 +2,5 @@ var number = num(4, 9);
 console.log(number);
 
 function num(b, d) {
-  return b < d ? d : b;
+  return b > d ? b : d;
 }
