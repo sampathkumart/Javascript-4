@@ -1,0 +1,7 @@
+Value Types                           Reference Types
+1.Number                              1.Object
+2.String                              2.Function
+3.Boolean                             3.Array
+4.Symbol
+5.Undefined
+6.Null

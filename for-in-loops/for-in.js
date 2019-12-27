@@ -5,7 +5,7 @@ let details = {
   role: "batsman-wk"
 };
 
-for (let key in details) console.log(key, details[key]);
+for (var key in details) console.log(key, details[key]);
 
 var city = ["chennai", "mumbai"];
 

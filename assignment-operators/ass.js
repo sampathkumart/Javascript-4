@@ -1,7 +1,7 @@
 var k = 15;
 
-k = k + 10;
-console.log(k);
+o = k + 10;
+console.log(o);
 
-k = k * 55;
-console.log(k);
+m = k * 55;
+console.log(m);

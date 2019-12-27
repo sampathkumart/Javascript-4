@@ -1,3 +1,3 @@
 const price = 2500;
-price = 2505;
+price = 2506;
 console.log(price);

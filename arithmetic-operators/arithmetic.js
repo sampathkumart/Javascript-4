@@ -1,10 +1,10 @@
-var v = 5;
-var d = 10;
-console.log(v + d);
-console.log(v * d);
-console.log(v - d);
-console.log(v % d);
-console.log(v / d);
+var v = 2;
+var d = 5;
+// console.log(v + d);
+// console.log(v * d);
+// console.log(v - d);
+// console.log(v % d);
+// console.log(v / d);
 console.log(v ** d);
 
 // Increment (++)
