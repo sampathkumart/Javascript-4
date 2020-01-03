@@ -1,3 +1,5 @@
+//Hoisting
+
 //function declaration
 bag();
 
